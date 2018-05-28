@@ -1,0 +1,12 @@
+{
+    "host": "127.0.0.1",
+    "port": "5000",
+    "provider": {
+        "name": "twilio",
+        "key": "AC5c1ce53dbb02f55d00da891d4e58ee9e",
+        "secret": "1ff296d906e50a1569baa22ed9cd4757",
+        "phone": "+15877416011",
+        "url": "/sulley/",
+        "methods": ["GET"]
+    }
+}
