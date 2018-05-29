@@ -1,6 +1,7 @@
 # SimpBot
 
 Sms and MMs card trading bot that grabs clips of The Simpsons and a Quote and puts a rareity on it.
+Users can Trade, Buy, And sell Simpsons
 
 # //TODO<br>
 Database for Users to store Phone-Number, How many of each type of Simpson and its worth.<br>
